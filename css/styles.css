@@ -1,0 +1,8 @@
+/* bold line before total */
+.line {
+  border-bottom: 2px solid black;
+}
+/* overriing the bold effect and make it normal weight */
+.promo {
+  font-weight: normal;
+}
